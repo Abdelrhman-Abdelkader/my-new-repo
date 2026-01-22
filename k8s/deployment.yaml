@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: YOUR_DOCKER_USERNAME/jenkins-demo:latest
+        image: abdelrhmanahmed1/jenkins-demo:latest
         ports:
         - containerPort: 80
 
